@@ -1,5 +1,5 @@
 # What is ArchiveFromZoomCloud?
-Utility that leverages the Zoom API to comb through every cloud recording, save its META data into a database and then FTP those files to a dedicated location for archiving. Once the utility marks the files as archived, it once again leverages the Zoom API to remove it from the Zoom cloud to free up cloud storage. 
+.NET Core Console Utility that leverages the Zoom API to comb through every cloud recording, save its META data into a database and then FTP those files to a dedicated location for archiving. Once the utility marks the files as archived, it once again leverages the Zoom API to remove it from the Zoom cloud to free up cloud storage.
 # Prerequisites
 
 ### Zoom API Keys
